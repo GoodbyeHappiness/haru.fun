@@ -34,3 +34,6 @@ tests/_support/_generated
 
 # log
 log/
+
+# env
+/web/env/env.php
