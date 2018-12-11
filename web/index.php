@@ -4,7 +4,7 @@
 defined('YII_DEBUG') or define('YII_DEBUG', true);
 
 // 环境
-require __DIR__ . 'env/env.php';
+require __DIR__ . '/env/env.php';
 require __DIR__ . '/../vendor/autoload.php';
 require __DIR__ . '/../vendor/yiisoft/yii2/Yii.php';
 
